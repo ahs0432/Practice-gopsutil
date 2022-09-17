@@ -1,5 +1,6 @@
 package main
 
+/*
 import (
 	"fmt"
 	"net"
@@ -214,3 +215,4 @@ func test() {
 	dockerStat()
 	netInterfaces()
 }
+*/
